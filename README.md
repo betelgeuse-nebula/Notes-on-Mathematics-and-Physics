@@ -1,6 +1,6 @@
 # Notes-on-Mathematics-and-Physics
 ## Probability Theory and Mathematical Statistics（概率论与数理统计）
-主要根据浙江大学《概率论与数理统计（第五版）》编写的完全原创的知识点汇总资料，基本上仅涵盖1\~5章，第6章第1、3节，第7章第1、3节，写于2022年3\~6月。
+主要根据浙江大学《概率论与数理统计（第五版）》编写的完全原创的知识点汇总资料，基本上仅涵盖1\~5章，第6章第1、3节，第7章第1、3节，主要写于2022年3\~6月。
 
 <img src=https://user-images.githubusercontent.com/107938588/175055352-4ac58813-13b8-48ab-a267-0f27808769d3.png width=60% />
 
