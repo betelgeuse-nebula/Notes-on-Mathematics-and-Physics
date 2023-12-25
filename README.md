@@ -14,9 +14,9 @@
 
 5. 热力学与统计物理(Thermodynamics and Statistical Physics)
 
-（待更新）
+6. （待更新）
    
-在本仓库中，我给每门课的笔记创建了单独的一个branch，请点击branch切换到这些课程的笔记。
+**在本仓库中，我给每门课的笔记创建了单独的一个branch，请点击branch切换到这些课程的笔记。**
 
 我还不是很会用github，这个仓库是按照我的朋友（ https://github.com/YoungLeeC1chen/SYSU_Phy-and-Astro_CourseResources ）的样式弄的。。。
 
