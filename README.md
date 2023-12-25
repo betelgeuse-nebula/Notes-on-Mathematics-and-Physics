@@ -14,12 +14,10 @@
 
 5. 热力学与统计物理(Thermodynamics and Statistical Physics)
 
-6. （待更新）
-   
+6. LaTeX的笔记很美观，但我觉得太耗时间了。我以后的课堂笔记应该还是以手写为主。
+
 **在本仓库中，我给每门课的笔记创建了单独的一个branch，请点击branch切换到这些课程的笔记。**
 
 我还不是很会用github，这个仓库是按照我的朋友（ https://github.com/YoungLeeC1chen/SYSU_Phy-and-Astro_CourseResources ）的样式弄的。。。
 
 欢迎指教，我的邮箱是 hrbetelgeuse@gmail.com
-
-
