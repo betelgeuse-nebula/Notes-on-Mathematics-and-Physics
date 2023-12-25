@@ -18,7 +18,7 @@
    
 在本仓库中，我给每门课的笔记创建了单独的一个branch，请点击branch切换到这些课程的笔记。
 
-我还不是很会用github，这个仓库是按照我的朋友（https://github.com/YoungLeeC1chen/SYSU_Phy-and-Astro_CourseResources）的样式弄的。。。
+我还不是很会用github，这个仓库是按照我的朋友（ https://github.com/YoungLeeC1chen/SYSU_Phy-and-Astro_CourseResources ）的样式弄的。。。
 
 欢迎指教，我的邮箱是 hrbetelgeuse@gmail.com
 
